@@ -3,6 +3,7 @@
 An AI-powered blog content generation system that automatically creates technical blog posts using LangGraph, LLMs, and web research.
 
 ## 🎯 Overview
+<img width="1903" height="953" alt="Screenshot 2026-02-03 000801" src="https://github.com/user-attachments/assets/abaf1d50-8eac-4dd3-9377-0b6075f972ec" />
 
 The Blog Writer Agent is a sophisticated content generation pipeline that:
 - **Routes requests** based on content type (evergreen, hybrid, or news-driven)
